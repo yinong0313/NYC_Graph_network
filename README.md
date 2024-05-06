@@ -8,10 +8,10 @@ In this project, I assembled the social graph from photo captions for parties da
 
 More detail of how the code work can be found in `project_details.pdf`
 
-## Step 1: Get a list of all the photo pages to be analyzed. Then parse all of the captions on all page.
+## Step 1: Get a list of all the photo pages to be analyzed. Then parse all of the captions on all page
 - Run `caption_scraper_and_parser.py`
 
-## Step 2: Assemble the graph.
+## Step 2: Assemble the graph
 - Run `event_freq.py`
 - Run `NYC_graph.py`
 - Run `graph_analysis.py`
